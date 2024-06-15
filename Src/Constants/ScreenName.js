@@ -1,0 +1,23 @@
+const ScreenName = {
+    LOGIN: 'Login',
+    OTPVERIFACTION: 'OtpVerifactions',
+    NAMEEMAIL: 'NameEmail',
+    BOTTOMTABS: 'BottomTabs',
+    HOME: 'Home',
+    FEEDBACK: 'Feedback',
+    REWARDS: 'Rewards',
+    PROFILE: 'Profile',
+    REGISTERNEWPRODUCTS: 'RegisterNewProducts',
+    REQUESTFORSERVICE: 'RequestForService',
+    MYPROFILE: 'MyProfile',
+    CUCKOOREWARDS: 'CuckooRewards',
+    REQUESTS: 'Requests',
+    MYPURCHASE: 'MyPurchase',
+    ADDRESSES: 'Addresses',
+    SETTINGS: 'Settings',
+    LOGOUT: 'Logout',
+    REQUESTFORSERVICE: 'RequestForService',
+    SAVEADDRESS: 'SaveAddress',
+    FEEDBACKREVIWE: 'FeedbackReview',
+}
+export default ScreenName
